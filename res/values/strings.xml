@@ -3,6 +3,8 @@
     <string name="app_name">JAC Radio</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_play">Play</string>
     <string name="title_activity_main">JAC Radio</string>
     <string name="desc">Media Buttons</string>
 
