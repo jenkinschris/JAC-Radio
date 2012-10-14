@@ -7,5 +7,6 @@
     <string name="menu_play">Play</string>
     <string name="title_activity_main">JAC Radio</string>
     <string name="desc">Media Buttons</string>
-
+    <string name="playButton">Play</string>
+	<string name="stopButton">Stop</string>
 </resources>
