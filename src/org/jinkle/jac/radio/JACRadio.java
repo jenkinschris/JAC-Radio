@@ -104,12 +104,12 @@ public class JACRadio extends Activity implements OnClickListener {
     	
     	try {
     		mPlayer.setDataSource("http://sbs-stream.sbs.uq.edu.au:8000/jacradio.mp3");
-    	} catch (IllegalArgumentException e) {
-            e.printStackTrace();
-        } catch (IllegalStateException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+    	} 	catch (IllegalArgumentException e) {
+    			e.printStackTrace();
+        } 	catch (IllegalStateException e) {
+            	e.printStackTrace();
+        } 	catch (IOException e) {
+            	e.printStackTrace();
         }
     }
     
